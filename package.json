@@ -1,0 +1,24 @@
+{
+  "name": "cinematicketchecker2.0",
+  "version": "1.0.0",
+  "description": "Check for tickets",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Timtendo12/Cinema-Ticket-Checker-2.0.git"
+  },
+  "keywords": [
+    "cinema",
+    "ticket",
+    "checker"
+  ],
+  "author": "Timtendo12",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Timtendo12/Cinema-Ticket-Checker-2.0/issues"
+  },
+  "homepage": "https://github.com/Timtendo12/Cinema-Ticket-Checker-2.0#readme"
+}
